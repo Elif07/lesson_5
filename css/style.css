@@ -1,0 +1,95 @@
+.header {
+   font-size: 14px;
+   margin-bottom: 20px;
+   text-decoration: underline;
+}
+body {
+   background-color: rgb(237, 235, 220);
+   padding: 5%;
+   font-family: Raleway;
+   font-weight: 400;
+   font-style: normal;
+   color: rgb(52, 50, 50);
+}
+.header-title {
+   font-family: Montserrat;
+   font-weight: 700;
+   font-size: 28px;
+   line-height: 2;
+   color: rgb(63, 58, 58);
+   text-align: center;
+   text-transform: uppercase;
+   letter-spacing: 5px;
+
+   margin-bottom: 15px;
+   text-shadow: 7px 5px 12px rgba(0, 0, 0, 0.62);
+   box-shadow: 9px 10px 42px 1px rgba(0, 0, 0, 0.76);
+}
+.list-day {
+   text-align: center;
+   font-family: Montserrat;
+   font-weight: 700;
+   width: 100%;
+   line-height: 1.5;
+   letter-spacing: 5px;
+   margin-bottom: 28px;
+   box-shadow: 9px 10px 42px 1px rgba(0, 0, 0, 0.76);
+}
+.link-monday {
+   background-color: hwb(25 4% 1%);
+}
+
+.link-tuesday {
+   background-color: rgb(228, 248, 12);
+
+}
+
+.link-wednesday {
+   background-color: rgb(31, 245, 63);
+}
+
+.link-thursday {
+   background-color: rgb(116, 217, 243);
+}
+
+.link-friday {
+   background-color: rgb(76, 46, 184);
+      color: rgb(243, 232, 248);
+}
+
+.link-saturday {
+   background-color: rgb(89, 14, 118);
+   color: rgb(238, 217, 248);
+}
+
+.link-sunday {
+   background-color: rgb(243, 17, 17);
+      color: rgb(247, 229, 229);
+}
+.list-head {
+   font-family: "Montserrat italic";
+   font-style: italic;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1;
+   margin-top: 10px;
+   margin-bottom: 5px;
+   text-decoration: underline;
+}  
+.list-text {
+   font-family: Montserrat ;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 1;
+}
+.list {
+   margin-bottom: 20px;
+}
+.main-text {
+   word-spacing: 15px;
+}
+.footer {
+   font-size: 12px;
+   margin-top: 20px;
+   text-decoration: overline;
+}
